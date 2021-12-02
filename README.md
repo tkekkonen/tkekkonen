@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @tkekkonen
+- 👀 I’m interested in webdev 💻 and golf 🏌🏻‍♂️
+- 🌱 I’m currently learning... Well, life is constant learning. ☺️
+- 📫 How to reach me => tomi@kekko.dev
