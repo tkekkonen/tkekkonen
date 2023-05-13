@@ -1,2 +1,1 @@
 - 👋 Hi, I’m Tomi
-- 📫 How to reach me => tomi@kekko.dev
